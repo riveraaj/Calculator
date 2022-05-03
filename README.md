@@ -6,3 +6,5 @@ This is a project that uses dynamic memory allocation, the development of recurs
 You can also find .exe of the application for Windows.
 
 You will find the code in the Spanish language.
+
+[![Dise-o-sin-t-tulo.png](https://i.postimg.cc/52WXrkWS/Dise-o-sin-t-tulo.png)](https://postimg.cc/kBwM6s42)
