@@ -27,4 +27,4 @@ You can also find .exe of the application for Windows.
 ## Author Info
 
 - Linkedin - [jriveraa](https://www.linkedin.com/in/jriveraaa/)
-- Website - [Jonathan R.V](https://jamesqquick.com)
+- Website - [Jonathan R.V](https://riveraaj.github.io/Portfolio/)
